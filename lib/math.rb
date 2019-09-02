@@ -23,7 +23,7 @@ def modulo(num1, num2)
   10 % 6
 end
 
-def square_root(num)
+def square_root(num.Math.sqrt)
   puts num
-  9.Math.sqrt
+  9
 end
